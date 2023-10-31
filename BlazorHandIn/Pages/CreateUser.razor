@@ -1,7 +1,8 @@
 @page "/CreateUser"
 @using Domain.DTOs
 @using HttpClients.ClientInterfaces
-@inject IUserService UserService;
+@inject IUserService UserService
+@inject NavigationManager navMgr
 
 <div class="card">
     <h3>Create User</h3>
@@ -33,6 +34,7 @@
             username = "";
             resultMsg = "User successfully created";
             color = "green";
+            navMgr.NavigateTo("/CreatePost");
         }
         catch (Exception e)
         {

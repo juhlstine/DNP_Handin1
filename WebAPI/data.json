@@ -24,6 +24,36 @@
       "Id": 5,
       "UserName": "Rasmus",
       "Posts": null
+    },
+    {
+      "Id": 6,
+      "UserName": "stinejuhl",
+      "Posts": null
+    },
+    {
+      "Id": 7,
+      "UserName": "mig123",
+      "Posts": null
+    },
+    {
+      "Id": 8,
+      "UserName": "S\u00F8ren",
+      "Posts": null
+    },
+    {
+      "Id": 9,
+      "UserName": "Bob",
+      "Posts": null
+    },
+    {
+      "Id": 10,
+      "UserName": "Bobby",
+      "Posts": null
+    },
+    {
+      "Id": 11,
+      "UserName": "Claus",
+      "Posts": null
     }
   ],
   "Posts": [
@@ -35,7 +65,7 @@
         "Posts": null
       },
       "Title": "Create new post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 3,
@@ -45,7 +75,7 @@
         "Posts": null
       },
       "Title": "Create new post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 4,
@@ -55,7 +85,7 @@
         "Posts": null
       },
       "Title": "See mynew post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 5,
@@ -65,7 +95,7 @@
         "Posts": null
       },
       "Title": "new post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 6,
@@ -75,7 +105,7 @@
         "Posts": null
       },
       "Title": "Create new post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 1,
@@ -85,7 +115,7 @@
         "Posts": null
       },
       "Title": "Create new post",
-      "IsCompleted": true
+      "Body": null
     },
     {
       "Id": 7,
@@ -95,7 +125,7 @@
         "Posts": null
       },
       "Title": "New post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 8,
@@ -105,7 +135,7 @@
         "Posts": null
       },
       "Title": "Hello",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 9,
@@ -115,7 +145,7 @@
         "Posts": null
       },
       "Title": "Hello",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 10,
@@ -125,7 +155,7 @@
         "Posts": null
       },
       "Title": "This is my first post",
-      "IsCompleted": false
+      "Body": null
     },
     {
       "Id": 11,
@@ -135,7 +165,97 @@
         "Posts": null
       },
       "Title": "$wAgGeR",
-      "IsCompleted": false
+      "Body": null
+    },
+    {
+      "Id": 12,
+      "Owner": {
+        "Id": 6,
+        "UserName": "stinejuhl",
+        "Posts": null
+      },
+      "Title": "See my new post",
+      "Body": null
+    },
+    {
+      "Id": 13,
+      "Owner": {
+        "Id": 7,
+        "UserName": "mig123",
+        "Posts": null
+      },
+      "Title": "Hello World",
+      "Body": null
+    },
+    {
+      "Id": 14,
+      "Owner": {
+        "Id": 7,
+        "UserName": "mig123",
+        "Posts": null
+      },
+      "Title": "First body post",
+      "Body": null
+    },
+    {
+      "Id": 15,
+      "Owner": {
+        "Id": 1,
+        "UserName": "Stine",
+        "Posts": null
+      },
+      "Title": "Mojn ",
+      "Body": null
+    },
+    {
+      "Id": 16,
+      "Owner": {
+        "Id": 8,
+        "UserName": "S\u00F8ren",
+        "Posts": null
+      },
+      "Title": "Hej ",
+      "Body": null
+    },
+    {
+      "Id": 17,
+      "Owner": {
+        "Id": 8,
+        "UserName": "S\u00F8ren",
+        "Posts": null
+      },
+      "Title": "Tirsdag",
+      "Body": "I dag er en god dag"
+    },
+    {
+      "Id": 18,
+      "Owner": {
+        "Id": 2,
+        "UserName": "Johanne",
+        "Posts": null
+      },
+      "Title": "dav",
+      "Body": "test"
+    },
+    {
+      "Id": 19,
+      "Owner": {
+        "Id": 9,
+        "UserName": "Bob",
+        "Posts": null
+      },
+      "Title": "godav",
+      "Body": "mojn"
+    },
+    {
+      "Id": 20,
+      "Owner": {
+        "Id": 9,
+        "UserName": "Bob",
+        "Posts": null
+      },
+      "Title": "Big test",
+      "Body": "this is a big test ???????????????????????????????????????????????????????????????????????????????????????????????"
     }
   ]
 }
