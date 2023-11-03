@@ -9,4 +9,8 @@
 
 
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.13" />
+    </ItemGroup>
+
 </Project>

@@ -3,56 +3,109 @@
     {
       "Id": 1,
       "UserName": "Stine",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 2,
       "UserName": "Johanne",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 3,
       "UserName": "Karen",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 4,
       "UserName": "user",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 5,
       "UserName": "Rasmus",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 6,
       "UserName": "stinejuhl",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 7,
       "UserName": "mig123",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 8,
       "UserName": "S\u00F8ren",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 9,
       "UserName": "Bob",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 10,
       "UserName": "Bobby",
+      "Password": null,
       "Posts": null
     },
     {
       "Id": 11,
       "UserName": "Claus",
+      "Password": null,
+      "Posts": null
+    },
+    {
+      "Id": 12,
+      "UserName": "hej123",
+      "Password": "",
+      "Posts": null
+    },
+    {
+      "Id": 13,
+      "UserName": "hello123",
+      "Password": "12345",
+      "Posts": null
+    },
+    {
+      "Id": 14,
+      "UserName": "mojn123",
+      "Password": "mojn123",
+      "Posts": null
+    },
+    {
+      "Id": 15,
+      "UserName": "stine123",
+      "Password": "stine123",
+      "Posts": null
+    },
+    {
+      "Id": 16,
+      "UserName": "se123",
+      "Password": "se123",
+      "Posts": null
+    },
+    {
+      "Id": 17,
+      "UserName": "te123",
+      "Password": "te123",
+      "Posts": null
+    },
+    {
+      "Id": 18,
+      "UserName": "qw123",
+      "Password": "qw123",
       "Posts": null
     }
   ],
@@ -62,6 +115,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "Create new post",
@@ -72,6 +126,7 @@
       "Owner": {
         "Id": 3,
         "UserName": "Karen",
+        "Password": null,
         "Posts": null
       },
       "Title": "Create new post",
@@ -82,6 +137,7 @@
       "Owner": {
         "Id": 3,
         "UserName": "Karen",
+        "Password": null,
         "Posts": null
       },
       "Title": "See mynew post",
@@ -92,6 +148,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "new post",
@@ -102,6 +159,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "Create new post",
@@ -112,6 +170,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "Create new post",
@@ -122,6 +181,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "New post",
@@ -132,6 +192,7 @@
       "Owner": {
         "Id": 5,
         "UserName": "Rasmus",
+        "Password": null,
         "Posts": null
       },
       "Title": "Hello",
@@ -142,6 +203,7 @@
       "Owner": {
         "Id": 5,
         "UserName": "Rasmus",
+        "Password": null,
         "Posts": null
       },
       "Title": "Hello",
@@ -152,6 +214,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "This is my first post",
@@ -162,6 +225,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "$wAgGeR",
@@ -172,6 +236,7 @@
       "Owner": {
         "Id": 6,
         "UserName": "stinejuhl",
+        "Password": null,
         "Posts": null
       },
       "Title": "See my new post",
@@ -182,6 +247,7 @@
       "Owner": {
         "Id": 7,
         "UserName": "mig123",
+        "Password": null,
         "Posts": null
       },
       "Title": "Hello World",
@@ -192,6 +258,7 @@
       "Owner": {
         "Id": 7,
         "UserName": "mig123",
+        "Password": null,
         "Posts": null
       },
       "Title": "First body post",
@@ -202,6 +269,7 @@
       "Owner": {
         "Id": 1,
         "UserName": "Stine",
+        "Password": null,
         "Posts": null
       },
       "Title": "Mojn ",
@@ -212,6 +280,7 @@
       "Owner": {
         "Id": 8,
         "UserName": "S\u00F8ren",
+        "Password": null,
         "Posts": null
       },
       "Title": "Hej ",
@@ -222,6 +291,7 @@
       "Owner": {
         "Id": 8,
         "UserName": "S\u00F8ren",
+        "Password": null,
         "Posts": null
       },
       "Title": "Tirsdag",
@@ -232,6 +302,7 @@
       "Owner": {
         "Id": 2,
         "UserName": "Johanne",
+        "Password": null,
         "Posts": null
       },
       "Title": "dav",
@@ -242,6 +313,7 @@
       "Owner": {
         "Id": 9,
         "UserName": "Bob",
+        "Password": null,
         "Posts": null
       },
       "Title": "godav",
@@ -252,10 +324,22 @@
       "Owner": {
         "Id": 9,
         "UserName": "Bob",
+        "Password": null,
         "Posts": null
       },
       "Title": "Big test",
       "Body": "this is a big test ???????????????????????????????????????????????????????????????????????????????????????????????"
+    },
+    {
+      "Id": 21,
+      "Owner": {
+        "Id": 18,
+        "UserName": "qw123",
+        "Password": "qw123",
+        "Posts": null
+      },
+      "Title": "Tillykke du gjorde det",
+      "Body": "Jubii"
     }
   ]
 }

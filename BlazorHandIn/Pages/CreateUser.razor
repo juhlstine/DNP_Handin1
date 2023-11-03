@@ -9,6 +9,8 @@
     <div class="form-group field">
         <label>User name:</label>
         <input type="text" @bind="username" @bind:event="oninput"/>
+        <label>Password:</label>
+        <input type="text" @bind="password" @bind:event="oninput"/>
         @if (!string.IsNullOrEmpty(resultMsg))
         {
             <label style="color: @color">@resultMsg</label>
@@ -21,6 +23,7 @@
 
 @code {
     private string username = "";
+    private string password = "";
     private string resultMsg = "";
     private string color = "";
     
@@ -30,10 +33,8 @@
 
         try
         {
-            await UserService.CreateAsync(new UserCreationDto(username));
+            await UserService.CreateAsync(new UserCreationDto(username, password));
             username = "";
-            resultMsg = "User successfully created";
-            color = "green";
             navMgr.NavigateTo("/CreatePost");
         }
         catch (Exception e)
